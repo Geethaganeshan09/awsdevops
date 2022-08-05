@@ -18,4 +18,5 @@ artifacts:
     - appspec.yml
     - scripts/install-dependencies
     - scripts/start_server
+    
   
