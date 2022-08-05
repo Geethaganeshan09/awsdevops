@@ -15,6 +15,6 @@ phases:
  files:
   - index.html
   - appspec.yml
-  - scripts/install-dependecies
+  - scripts/install-dependencies
   - scripts/start_server
   
