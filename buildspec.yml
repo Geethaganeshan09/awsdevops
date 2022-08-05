@@ -17,7 +17,4 @@ phases:
   - appspec.yml
   - scripts/install-dependecies
   - scripts/start_server
-  - 1.png
-  - aws.gif
-  - back.jpg
   
