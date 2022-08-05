@@ -8,7 +8,6 @@ phases:
       - apt-get install -y unzip
   build:
     commands:
-      - echo Build started on "date"
       - zip hello.zip ./index.html
      
 artifacts:
