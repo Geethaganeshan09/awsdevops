@@ -8,7 +8,7 @@ phases:
   build:
     commands:
       - echo Build started on "date"
-      - zip hellp.zip ./index.html
+      - zip hello.zip ./index.html
      
  artifacts:
  type:
